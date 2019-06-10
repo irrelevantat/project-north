@@ -9,4 +9,5 @@ We used the following process to create a psychologically safe environment:
 3. **Vulnerability & psychological safety primer**
     - Think about a moment when you felt really at ease and comfortable in a group. What qualities were present?
     - Share the experiences in pairs, then in the larger groups
-4. **Group commitments**: What are commitments in the group that we want to live (e.g. confidentiality, practicalities, [law of two feet](https://en.wikiversity.org/wiki/Open_Space_Technology#Law_of_Two_Feet), ..? 
+4. **Group commitments**: What are commitments in the group that we want to live (e.g. confidentiality, practicalities, [law of two feet](https://en.wikiversity.org/wiki/Open_Space_Technology#Law_of_Two_Feet), ..?
+    - Example of group commitment we chose: "We aim to listen and to be open, and to voice when we prefer not to listen.".
