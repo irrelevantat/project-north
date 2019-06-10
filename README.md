@@ -21,7 +21,7 @@ We have tested the process in the following setting:
 - Agenda
 	- Friday: [Community building](modules/community.md)
 	- Saturday: Listening exercises, sharing of memories
-	- Sunday: Collecting reflections, facilitated discussion on power & privilege, check out
+	- Sunday: Collecting reflections, [facilitated discussion on power & privilege](modules/power.md), check out
 - Financial concept: Financial gift hub concept (full transparency of costs, free contribution). Invitation to contribute: "How much are you **very happy** to give to support a weekend like this to happen again?
 
 # Inspirations
