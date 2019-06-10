@@ -1,6 +1,8 @@
 We believe that today’s society and organisations need individuals who are rooted in their values and motivation. Having clarity on our internal drivers help us communicate them and thereby inspire others.
 We believe that by sharing memorable and impactful moments of our lives we get valuable feedback about what truly matters to us.
 
+![Tampere](img/header.jpg)
+
 # Process to get more clarity about one's values
 
 To gain more clarity on our values, we have tested the following process with groups:
